@@ -1,2 +1,3 @@
 # RTL_Practice
-RTL Practice Problems
+This Repository contains solutions to different verilog interivew questions.
+
